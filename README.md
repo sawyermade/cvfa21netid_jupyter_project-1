@@ -9,9 +9,9 @@ The whole project should be contained within that directory. Then, zip the direc
 
 Here is an example tree of the directory structure
 ```
-danielsawyer_project-1.zip contains...
+danielsawyer_jupyter_project-1.zip contains...
 
-danielsawyer_project-1
+danielsawyer_jupyter_project-1
 ├── data
 │		 ├── baboon.png
 │		 ├── boat.png
